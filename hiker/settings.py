@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-^0hhlujk%u0-v_(ftk2-e7o32vqqq25k@qqxastqa_$9bppr8z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://hiker-jobsearch-django-project.onrender.com"]
 
 
 # Application definition
